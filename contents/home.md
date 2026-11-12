@@ -1,20 +1,20 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a PhD in Neurology at Peking University Health Science Center in Beijing,China
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>mayumeng26@stu.pku.edu.cn </code>  
+<code>Maym18_smu@163.com</code>
+
+#### ORCID
+<code>https://orcid.org/0009-0006-0733-5075</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Peking University**, PhD in Neurology(2026.9 – Present)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Shanghai Jiao Tong University**, Master of Medicine in Pediatrics(2023.9 – 2026.6)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Southern Medical University**,  Bachelor of Medicine in Pediatrics(2018.9 – 2023.6)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Neurodevelopment Disorders, Neuromuscular Diseases, Alternative RNA Splicing, Therapeutics for Rare Diseases.
