@@ -1,21 +1,33 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Master's work**  
+**January 2026 – December 2029 | General Program of the National Natural Science Foundation of China (Grant No. 82571342)**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Mechanistic Investigation of PUF60 Deficiency–Induced Aberrant Alternative RNA Splicing in a Rare Neurodevelopmental Disorder Syndrome and the Development of an ASO-Based Therapeutic Strategy
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### Project description:  
+- This study focuses on the splicing factor PUF60 and employs zebrafish and human cell models to elucidate how PUF60 variants cause aberrant alternative splicing of downstream genes and contribute to disease pathogenesis.  
+-  It also evaluates the feasibility of using antisense oligonucleotides (ASOs) to correct aberrant splicing and ameliorate neurodevelopmental phenotypes.
+   
+**January 2026–December 2028 | Shanghai Municipal Health Commission Seed Program for Medical Technology Research and Translation (Grant No. 2025ZZ2009)**
 
+Application of a Targeted Gene Activation–Based RNA Detection Technology in the Genetic Diagnosis of Rare Neurological Diseases
+
+#### Project description:  
+- This study aims to establish and validate a CRISPR activation (CRISPRa)-based RNA detection technology.
+- By activating the expression of disease-causing genes that are expressed at low levels or remain transcriptionally silent in patient-derived urinary cells, this approach seeks to improve the efficiency of molecular diagnosis for rare neurological diseases.
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **硕士工作**  
+**2026年1月 – 2029年12月 | 国家自然科学基金面上项目（82571342）**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+PUF60缺陷影响RNA可变剪接致罕见神经发育障碍综合征的机制解析及ASO干预研究
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### 项目内容:  
+- 本研究以剪接因子 PUF60 为核心，利用斑马鱼和人源细胞模型解析其突变引发的下游基因可变剪接异常及相关致病机制。  
+- 本研究评估通过ASO纠正异常剪接以改善神经发育障碍表型的可行性。
+
+**2026年1月 – 2028年12月 | 上海市卫健委医学新技术研究与转化种子计划（2025ZZ2009）**  
+
+基于靶向基因激活的RNA检测新技术在罕见神经疾病遗传诊断中的应用研究
+
+#### 项目内容:  
+- 本研究建立并验证基于 CRISPRa 的 RNA 激活检测技术，通过激活患者尿源细胞中低表达或不表达致病基因的表达水平，以提高罕见神经疾病的分子诊断效率。
